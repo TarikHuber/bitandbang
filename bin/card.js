@@ -15,9 +15,7 @@ let options = {
 let data = {
   name: chalk.white('Tarik Huber /'),
   handle: chalk.cyan('tarikhuber'),
-  work: chalk.white(
-    'Fullstack developer • @GDG organiser • Creator of React Most Wanted • External teacher at @fhsalzburg • #PWA #firebase #react'
-  ),
+  work: chalk.white('Fullstack web developer • @GDG organiser • External teacher at @fhsalzburg'),
   twitter: chalk.cyan('https://twitter.com/tarikhuber'),
   github: chalk.cyan('https://github.com/tarikhuber'),
   linkedin: chalk.cyan('https://linkedin.com/in/tarik-huber-342127128'),
