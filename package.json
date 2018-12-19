@@ -1,6 +1,6 @@
 {
   "name": "huber",
-  "version": "1.1.3",
+  "version": "1.1.4",
   "description": "A personal card for Tarik Huber (@tarikhuber)",
   "main": "index.js",
   "bin": {
